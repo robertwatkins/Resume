@@ -5,21 +5,14 @@
 
 ---
 
-## Objective  
-Seeking an IT leadership role at a dynamic company where I can apply my technical and management expertise to:  
-- Develop and execute technical strategies, processes, and solutions aligned with business goals.  
-- Promote collaboration between technical teams, business leaders, and end users.  
-- Manage resources efficiently through budget planning, team performance tracking, and task prioritization.  
-- Resolve problems through quick analysis and solution implementation.  
-- Provide technology vision and leadership to achieve organizational goals.  
-- Balance project realities with stakeholder expectations through open communication and solution-focused thinking.
-
+## Exexutive Summary
+IT and engineering leader with 20+ years of experience delivering secure, cloud-based solutions across federal and commercial environments. Proven track record managing $16M+ portfolios, leading 30+ person teams, achieving “Very Good” to “Excellent” CPAR ratings, and closing 100% of high-severity security findings prior to ATO. Combines hands-on technical depth with strategic execution.
 ---
 
 ## Areas of Expertise  
 **Management:** Process Development, Strategic Planning, Interpersonal Skills, Team Building  
 **Business Development:** Contract Capture, Proposal Development  
-**Technical Skills:** Hands-on development, operational skills, automation, and systems integration
+**Technical Skills:** Hands-on software development, operational delvery and incident management, automation, and systems integration
 
 ---
 
@@ -27,10 +20,10 @@ Seeking an IT leadership role at a dynamic company where I can apply my technica
 
 - **Problem Solving:**  
   Designed and built a proof-of-concept tool with a private investigator to help law enforcement investigate sex and drug trafficking.  
-  *Result:* Potential for more effective use of time by law enforcement, improving public safety.
+  *Result:* Enabled data-driven approach to effective use of time by law enforcement, improving public safety.
 
 - **Communicating:**  
-  Presented at Infragard’s “Information Warfare” conference on the mathematics and security basis of blockchain.  
+  Presented at Infragard’s “Information Warfare” conference to 200+ Information Security Specailists on the mathematics and security basis of blockchain.  
   *Result:* Attendees reported increased understanding and comfort with applying blockchain concepts.
 
 - **Managing:**  
@@ -52,13 +45,13 @@ Seeking an IT leadership role at a dynamic company where I can apply my technica
 **Contract Engagement Lead**  
 *Changeis, Arlington, VA* (2020 – Present)  
 - Managed delivery of $16M+ in federal contracts with consistent “Very Good” to “Excellent” CPAR ratings
-- Led and mentored teams consisting of 30+ engineers, devops, training, testers, and analysts across multiple contracts
+- Led and mentored teams consisting of 30+ engineers, DevOps, QA, training, and business analysts across multiple contracts
 - Maintained high retention rates (>90%) in high-pressure delivery environments
 - Closed 100% of high and critical severity security findings prior to ATO milestones
 - Delivered systems compliant with federal security and privacy requirements without schedule impact
 - Led an Enterprise Technology Community of Practice with 40+ recurring participants
-- Key contributor to AWS Government Competency and AWS Migration Accelleration Program.
-- Increased AWS certification from 5% to 25% over a two year period.
+- Key contributor to AWS Government Competency and AWS Migration Acceleration Program (MAP).
+- Increased AWS-certified staff from 5% to 25% over two years, strengthening cloud delivery readiness across multiple contracts
 
 **Owner / Consultant**  
 *Red Earth Security, OKC, OK* (2016 – 2021)  
@@ -68,7 +61,7 @@ Seeking an IT leadership role at a dynamic company where I can apply my technica
 *Heartland Payment Systems, OKC, OK* (2020)  
 - Team lead and mentor for team of 3 test automation engineers
 - Reduced development time for Test Automation scripts by building YAML-based DSL linter in .NET Core to find issues prior to runtime
-- Estimated improvement of test coverage of top-level features from 40% to 75% in less than six months.
+- Improvement of test coverage of top-level features from ~40% to ~75% in less than six months.
 
 **Software Engineer**  
 *Sonic Drive-In, OKC, OK* (2019 – 2020)
@@ -79,7 +72,7 @@ Seeking an IT leadership role at a dynamic company where I can apply my technica
 **Software Engineer Lead**  
 *Changeis, OKC, OK* (2017 – 2019)  
 - Team Lead and mentor for six test automation engineers on FAA inventory systems
-- Produced test automation architecture for new system to achive 100% high-level coverage within 2 sprints of features being complete.
+- Produced test automation architecture for new system to achive 100% high-level coverage within two sprints of feature completion.
 - Presented internally on automation architecture and blockchain  
 
 **Software Engineer in Test Lead**  
