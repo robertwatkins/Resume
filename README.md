@@ -51,50 +51,58 @@ Seeking an IT leadership role at a dynamic company where I can apply my technica
 
 **Contract Engagement Lead**  
 *Changeis, Arlington, VA* (2020 – Present)  
-- Managed multiple contracts and technical teams  
-- Led vendor partnerships and proposal development  
-- Solved complex client needs through solution architecture  
+- Managed delivery of $16M+ in federal contracts with consistent “Very Good” to “Excellent” CPAR ratings
+- Led and mentored teams consisting of 30+ engineers, devops, training, testers, and analysts across multiple contracts
+- Maintained high retention rates (>90%) in high-pressure delivery environments
+- Closed 100% of high and critical severity security findings prior to ATO milestones
+- Delivered systems compliant with federal security and privacy requirements without schedule impact
+- Led an Enterprise Technology Community of Practice with 40+ recurring participants
+- Key contributor to AWS Government Competency and AWS Migration Accelleration Program.
+- Increased AWS certification from 5% to 25% over a two year period.
 
 **Owner / Consultant**  
 *Red Earth Security, OKC, OK* (2016 – 2021)  
 - Built a machine learning tool to assess potential trafficking locations via REST API  
-- Tool is progressing toward cloud-native deployment  
 
 **Software Engineer**  
 *Heartland Payment Systems, OKC, OK* (2020)  
-- Built YAML-based DSL linter in .NET Core  
-- Developed API and UI automated testing tools  
+- Team lead and mentor for team of 3 test automation engineers
+- Reduced development time for Test Automation scripts by building YAML-based DSL linter in .NET Core to find issues prior to runtime
+- Estimated improvement of test coverage of top-level features from 40% to 75% in less than six months.
 
 **Software Engineer**  
-*Sonic Drive-In, OKC, OK* (2019 – 2020)  
-- Defined standards for automation and internal utilities  
-- Collaborated with Inspire Brand to scale SDLC best practices  
+*Sonic Drive-In, OKC, OK* (2019 – 2020)
+- Team Lead and mentor for team of 6 manual and automated testers
+- Leveled up all manual testers to produce automated tests
+- Delivered technical briefings and conference talks improving executive and practitioner understanding of emerging technologies (New Test Automation Frameworks, Blockchain, etc.)
 
 **Software Engineer Lead**  
 *Changeis, OKC, OK* (2017 – 2019)  
-- Led automation project for FAA inventory systems  
+- Team Lead and mentor for six test automation engineers on FAA inventory systems
+- Produced test automation architecture for new system to achive 100% high-level coverage within 2 sprints of features being complete.
 - Presented internally on automation architecture and blockchain  
 
 **Software Engineer in Test Lead**  
 *MSCI, Norman, OK* (2011 – 2017)  
-- Led QA teams, automation, and process improvements  
-- Delivered security and BDD training to international teams  
-
+- Team lead and mentor to 15 test automation engineers in 3 locations worldwide (Norman, Oklahoma; Mumbai, India; Beijing, China)
+- Established Manual Security Testing into the existing process, finding multiple critical security flaws prior to deployment to production.
+  
 **Guest Lecturer**  
 *University of Oklahoma, Norman, OK* (2012 – 2016)  
 - Presented in Computer Science Capstone class on test case development  
 
 **QA & Test Process Lead**  
 *Metavante, Norman, OK* (2005 – 2011)  
-- Led QA team and test process implementation  
-
+- Team Lead of QA team of 4, introducing a standardized test process
+  
 **Adjunct Faculty**  
 *Oklahoma City University, OKC, OK* (2010)  
 - Taught College Algebra  
 
 **Support Team Lead**  
 *Teleflora, OKC, OK* (2005)  
-- Managed QA, operations, and data conversion testing  
+- Managed and mentored a team of 10 staff covering QA, operations support and data conversion testing
+
 
 **IT Manager / Developer**  
 *Flagstar Bank, Troy, MI* (1999 – 2004)  
