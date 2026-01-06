@@ -20,7 +20,7 @@ IT and engineering leader with 20+ years of experience delivering secure, cloud-
 ## Accomplishments  
 
 - **Problem Solving:**  
-  Designed and built a proof-of-concept AI tool with a private investigator to help law enforcement identify likely locations of sex and drug trafficking based on publicly-available data.  
+  Designed and built a proof-of-concept AI tool, collaborating with a private investigator to help law enforcement identify likely locations of sex and drug trafficking based on publicly-available data.  
   *Result:* Enabled data-driven approach for efficient law enforcement, improving public safety.
 
 - **Communicating:**  
@@ -50,8 +50,8 @@ IT and engineering leader with 20+ years of experience delivering secure, cloud-
 - Maintained high retention rates (>90%) in high-pressure delivery environments
 - Closed 100% of high and critical severity security findings prior to ATO milestones
 - Delivered first DOT system to adhere to the more stringent TIC 3.0 security standard without schedule impact
-- Key contributor to AWS Government Competency and AWS Migration Acceleration Program (MAP).
-- Increased AWS-certified staff from 5% to 25% over two years, strengthening cloud delivery readiness across multiple contracts
+- Key contributor to AWS Government Competency and AWS Migration Acceleration Program (MAP)
+- Increased AWS-certified staff from <5% to ~25% over two years, strengthening cloud delivery readiness across multiple contracts
 
 **Owner / Consultant**  
 *Red Earth Security, OKC, OK* (2016 – 2021)  
@@ -95,7 +95,6 @@ IT and engineering leader with 20+ years of experience delivering secure, cloud-
 **Support Team Lead**  
 *Teleflora, OKC, OK* (2005)  
 - Managed and mentored a team of 10 staff covering QA, operations support and data conversion testing
-
 
 **IT Manager / Developer**  
 *Flagstar Bank, Troy, MI* (1999 – 2004)  
