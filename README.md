@@ -7,6 +7,7 @@
 
 ## Executive Summary
 IT and engineering leader with 20+ years of experience delivering secure, cloud-based solutions across federal and commercial environments. Proven track record managing $16M+ portfolios, leading 30+ person teams, achieving “Very Good” to “Excellent” CPAR ratings, and closing 100% of high-severity security findings prior to ATO. Combines hands-on technical depth with strategic execution.
+
 ---
 
 ## Areas of Expertise  
