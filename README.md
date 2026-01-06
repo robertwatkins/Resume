@@ -5,38 +5,39 @@
 
 ---
 
-## Exexutive Summary
+## Executive Summary
 IT and engineering leader with 20+ years of experience delivering secure, cloud-based solutions across federal and commercial environments. Proven track record managing $16M+ portfolios, leading 30+ person teams, achieving “Very Good” to “Excellent” CPAR ratings, and closing 100% of high-severity security findings prior to ATO. Combines hands-on technical depth with strategic execution.
 ---
 
 ## Areas of Expertise  
 **Management:** Process Development, Strategic Planning, Interpersonal Skills, Team Building  
+]
 **Business Development:** Contract Capture, Proposal Development  
-**Technical Skills:** Hands-on software development, operational delvery and incident management, automation, and systems integration
+**Technical Skills:** Hands-on software development, operational delivery and incident management, automation, and systems integration
 
 ---
 
 ## Accomplishments  
 
 - **Problem Solving:**  
-  Designed and built a proof-of-concept tool with a private investigator to help law enforcement investigate sex and drug trafficking.  
-  *Result:* Enabled data-driven approach to effective use of time by law enforcement, improving public safety.
+  Designed and built a proof-of-concept AI tool with a private investigator to help law enforcement identify likely locations of sex and drug trafficking based on publicly-available data.  
+  *Result:* Enabled data-driven approach for efficient law enforcement, improving public safety.
 
 - **Communicating:**  
-  Presented at Infragard’s “Information Warfare” conference to 200+ Information Security Specailists on the mathematics and security basis of blockchain.  
+  Presented at Infragard’s “Information Warfare” conference to 200+ Information Security Specialists on the mathematics and security basis of blockchain.  
   *Result:* Attendees reported increased understanding and comfort with applying blockchain concepts.
 
 - **Managing:**  
   Led capture and delivery of multiple federal contracts.  
-  *Result:* Received “Very Good” and “Superior” CPAR ratings consistently.
+  *Result:* Received “Very Good” and "Excellent” CPAR ratings consistently.
 
 - **Organizational Development:**  
-  Led a technology partnership with a software vendor.  
+  Led a technology partnership with a software vendor. 
   *Result:* Developed certified staff and used the partnership to pursue new contract opportunities.
 
 - **Strategic Planning:**  
-  Organized the “Enterprise Technology Solutions Community of Practice.”  
-  *Result:* Created internal knowledge-sharing platform and marketing asset.
+  Organized an Enterprise Technology Community of Practice with 40+ recurring participants
+  *Result:* Created internal knowledge-sharing, skill-building platform and marketing asset.
 
 ---
 
@@ -44,23 +45,22 @@ IT and engineering leader with 20+ years of experience delivering secure, cloud-
 
 **Contract Engagement Lead**  
 *Changeis, Arlington, VA* (2020 – Present)  
-- Managed delivery of $16M+ in federal contracts with consistent “Very Good” to “Excellent” CPAR ratings
+- Managed delivery of $16M+ in Federal contracts with consistent “Very Good” to “Excellent” CPAR ratings
 - Led and mentored teams consisting of 30+ engineers, DevOps, QA, training, and business analysts across multiple contracts
 - Maintained high retention rates (>90%) in high-pressure delivery environments
 - Closed 100% of high and critical severity security findings prior to ATO milestones
-- Delivered systems compliant with federal security and privacy requirements without schedule impact
-- Led an Enterprise Technology Community of Practice with 40+ recurring participants
+- Delivered first DOT system to adhere to the more stringent TIC 3.0 security standard without schedule impact
 - Key contributor to AWS Government Competency and AWS Migration Acceleration Program (MAP).
 - Increased AWS-certified staff from 5% to 25% over two years, strengthening cloud delivery readiness across multiple contracts
 
 **Owner / Consultant**  
 *Red Earth Security, OKC, OK* (2016 – 2021)  
-- Built a machine learning tool to assess potential trafficking locations via REST API  
+- Built a machine learning tool to assess potential trafficking locations via REST API in collaboration with a Private Investigator, enabling law enforcement to more efficiently identify likely locations of sex and drug trafficing.   
 
 **Software Engineer**  
 *Heartland Payment Systems, OKC, OK* (2020)  
 - Team lead and mentor for team of 3 test automation engineers
-- Reduced development time for Test Automation scripts by building YAML-based DSL linter in .NET Core to find issues prior to runtime
+- Reduced development time for Test Automation scripts by building YAML-based Domain Specific Language (DSL) linter in .NET Core to find issues prior to runtime
 - Improvement of test coverage of top-level features from ~40% to ~75% in less than six months.
 
 **Software Engineer**  
@@ -72,7 +72,7 @@ IT and engineering leader with 20+ years of experience delivering secure, cloud-
 **Software Engineer Lead**  
 *Changeis, OKC, OK* (2017 – 2019)  
 - Team Lead and mentor for six test automation engineers on FAA inventory systems
-- Produced test automation architecture for new system to achive 100% high-level coverage within two sprints of feature completion.
+- Produced test automation architecture for new system to achieve 100% high-level coverage within two sprints of feature completion.
 - Presented internally on automation architecture and blockchain  
 
 **Software Engineer in Test Lead**  
@@ -82,7 +82,7 @@ IT and engineering leader with 20+ years of experience delivering secure, cloud-
   
 **Guest Lecturer**  
 *University of Oklahoma, Norman, OK* (2012 – 2016)  
-- Presented in Computer Science Capstone class on test case development  
+- Presented in Computer Science Capstone class on test case development to graduating seniors.  
 
 **QA & Test Process Lead**  
 *Metavante, Norman, OK* (2005 – 2011)  
